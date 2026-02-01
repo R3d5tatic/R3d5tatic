@@ -102,6 +102,14 @@ if __name__ == "__main__":
 
 ---
 
+## `> ./display_stats.sh`
+
+<img src="https://github-readme-stats.vercel.app/api?username=R3d5tatic&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=R3d5tatic&theme=chartreuse-dark&hide_border=true&background=0d1117" />
+
+---
+
 <div align="center">
 
 ## `> sudo ./load_arsenal.sh`
