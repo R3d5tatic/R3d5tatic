@@ -10,7 +10,7 @@
  ╚══════╝╚══════╝ ╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=%24+whoami;Staff+AI%2FML+Engineer+%7C+Tech+Lead;Cyber+Warfare+Officer+%7C+US+Army;Astronautical+Engineering+Background;Building+the+future+with+RAG+%26+LLMs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=%24+whoami;+AI%2FML+Engineer+%7C+Tech+Lead;+Fullstack+Engineer+%7C+Tech+Lead;Cyber+Warfare+Officer+%7C+US+Army;Astronautical+Engineering+Background;Building+the+future+with+Software+%26+AI" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/-Leonardo_J_Ramirez-00ff00?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/leonardo-j-ramirez)
 [![Email](https://img.shields.io/badge/-lramirez.army@gmail.com-00ff00?style=flat-square&logo=gmail&logoColor=black)](mailto:lramirez.army@gmail.com)
@@ -33,7 +33,7 @@
 class LeonardoRamirez:
     def __init__(self):
         self.name = "Leonardo J. Ramirez"
-        self.role = "Staff AI/ML Engineer | Tech Lead"
+        self.role = "Lead Software Engineer"
         self.location = "Orlando, FL 📍"
         self.clearance = "TS/SCI 🔒"
         
@@ -51,8 +51,8 @@ class LeonardoRamirez:
         
     def get_daily_routine(self):
         return """
-        ☕ Morning   → Coffee + Code Review
-        💻 Daytime  → Building AI/ML Solutions @ Lockheed Martin
+        ☕ Morning  → Coffee + Code Review
+        💻 Daytime  → Building Software + AI/ML Solutions @ RegainFlow
         🪖 Reserve  → Cyber Warfare Operations @ US Army
         🌙 Night    → Open Source & Learning
         """
@@ -102,14 +102,6 @@ if __name__ == "__main__":
 
 ---
 
-## `> ./display_stats.sh`
-
-<img src="https://github-readme-stats.vercel.app/api?username=R3d5tatic&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=R3d5tatic&theme=chartreuse-dark&hide_border=true&background=0d1117" />
-
----
-
 <div align="center">
 
 ## `> sudo ./load_arsenal.sh`
@@ -117,7 +109,7 @@ if __name__ == "__main__":
 </div>
 
 ### 🤖 AI/ML & RAG Frameworks
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=chainlink&logoColor=00ff00" />
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=00ff00" />
 <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=00ff00" />
@@ -127,7 +119,7 @@ if __name__ == "__main__":
 </p>
 
 ### 🌐 Web Frameworks
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=00ff00" />
 <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=00ff00" />
 <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00ff00" />
@@ -139,7 +131,7 @@ if __name__ == "__main__":
 </p>
 
 ### 🗄️ Data & Vector Databases
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Elasticsearch-000000?style=for-the-badge&logo=elasticsearch&logoColor=00ff00" />
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff00" />
 <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff00" />
@@ -149,7 +141,7 @@ if __name__ == "__main__":
 </p>
 
 ### ☁️ DevOps & Cloud
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00ff00" />
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff00" />
 <img src="https://img.shields.io/badge/OpenShift-000000?style=for-the-badge&logo=redhatopenshift&logoColor=00ff00" />
@@ -182,7 +174,7 @@ if __name__ == "__main__":
 
 ---
 
-<div align="center">
+<div>
 
 ## `> tail -f /var/log/activity.log`
 
@@ -203,15 +195,15 @@ if __name__ == "__main__":
 ```
 ┌──────────────────────────────────────────────────────────────────────────────────────┐
 │                                                                                      │
-│   "The programmer, like the poet, works only slightly removed from pure             │
-│    thought-stuff. He builds his castles in the air, from air, creating              │
-│    by exertion of the imagination."                                                 │
-│                                                        - Frederick P. Brooks Jr.    │
+│   "The programmer, like the poet, works only slightly removed from pure              │
+│    thought-stuff. He builds his castles in the air, from air, creating               │
+│    by exertion of the imagination."                                                  │
+│                                                        - Frederick P. Brooks Jr.     │
 │                                                                                      │
-│   ┌────────────────────────────────────────────────────────────────────────────┐    │
-│   │  $ echo "Let's build something amazing together"                           │    │
-│   │  > Reach out via LinkedIn or Email                                         │    │
-│   └────────────────────────────────────────────────────────────────────────────┘    │
+│   ┌────────────────────────────────────────────────────────────────────────────┐     │
+│   │  $ echo "Let's build something amazing together"                           │     │
+│   │  > Reach out via LinkedIn or Email                                         │     │
+│   └────────────────────────────────────────────────────────────────────────────┘     │
 │                                                                                      │
 └──────────────────────────────────────────────────────────────────────────────────────┘
 ```
