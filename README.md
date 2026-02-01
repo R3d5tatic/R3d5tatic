@@ -12,7 +12,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=%24+whoami;Staff+AI%2FML+Engineer+%7C+Tech+Lead;Cyber+Warfare+Officer+%7C+US+Army;Astronautical+Engineering+Background;Building+the+future+with+RAG+%26+LLMs" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff00&style=flat-square&label=PROFILE+VIEWS)](https://github.com/YOUR_USERNAME)
 [![LinkedIn](https://img.shields.io/badge/-Leonardo_J_Ramirez-00ff00?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/leonardo-j-ramirez)
 [![Email](https://img.shields.io/badge/-lramirez.army@gmail.com-00ff00?style=flat-square&logo=gmail&logoColor=black)](mailto:lramirez.army@gmail.com)
 
@@ -157,19 +156,6 @@ if __name__ == "__main__":
 
 <div align="center">
 
-## `> ./display_stats.sh`
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" width="40%" />
-
-</div>
-
----
-
-<div align="center">
-
 ## `> cat /var/log/certifications.log`
 
 </div>
@@ -194,9 +180,9 @@ if __name__ == "__main__":
 
 ```
 [2025-01-XX] 🚀 Leading 10-member team on HCM Data Validation Platform @ Lockheed Martin
-[2024-XX-XX] 🤖 Built Agentic RAG system processing 1M+ records with Elasticsearch
+[2024-01-XX] 🤖 Built Agentic RAG system processing 1M+ records with Elasticsearch @ Lockheed Martin
 [2024-03-XX] 🪖 Cyber Warfare Officer operations @ US Army Reserve
-[ONGOING]    🔐 Developing custom malware & security tools for Red Team ops
+[ONGOING]    🔐 Developing software + security tools for companies/startups @ RegainFlow
 [ONGOING]    📚 Exploring AI + MCP integration for next-gen automation
 ```
 
@@ -207,17 +193,19 @@ if __name__ == "__main__":
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   "The best way to predict the future is to invent it."         │
-│                                          - Alan Kay              │
-│                                                                  │
-│   ┌─────────────────────────────────────────────────────────┐   │
-│   │  $ echo "Let's build something amazing together"        │   │
-│   │  > Reach out via LinkedIn or Email                      │   │
-│   └─────────────────────────────────────────────────────────┘   │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                      │
+│   "The programmer, like the poet, works only slightly removed from pure             │
+│    thought-stuff. He builds his castles in the air, from air, creating              │
+│    by exertion of the imagination."                                                 │
+│                                                        - Frederick P. Brooks Jr.    │
+│                                                                                      │
+│   ┌────────────────────────────────────────────────────────────────────────────┐    │
+│   │  $ echo "Let's build something amazing together"                           │    │
+│   │  > Reach out via LinkedIn or Email                                         │    │
+│   └────────────────────────────────────────────────────────────────────────────┘    │
+│                                                                                      │
+└──────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer" width="100%"/>
